@@ -1,0 +1,10 @@
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\bin\Debug\FirstAzureSQLLocalProject.dacpac
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\bin\Debug\FirstAzureSQLLocalProject.dll
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\bin\Debug\FirstAzureSQLLocalProject.pdb
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\FirstAzureSQLLocalProject.sqlproj.AssemblyReference.cache
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\Model.xml
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\refactor.xml
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\postdeploy.sql
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\predeploy.sql
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\FirstAzureSQLLocalProject.dll
+c:\Users\jmont\source\repos\Github\AzureSQLDatabaseLocal\FirstAzureSQLLocalProject\obj\Debug\FirstAzureSQLLocalProject.pdb

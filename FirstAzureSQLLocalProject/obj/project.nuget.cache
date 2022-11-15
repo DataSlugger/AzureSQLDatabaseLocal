@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWD7PW6zUuyb0D8KheMcG623psiKe52jmYiWw2MZIkHFUEkbub93Yu5J/3aF0oGLFLwFtMnNDMQezZC0R0jrvA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\jmont\\source\\repos\\Github\\AzureSQLDatabaseLocal\\FirstAzureSQLLocalProject\\FirstAzureSQLLocalProject.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmont\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\jmont\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
